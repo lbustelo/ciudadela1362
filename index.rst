@@ -10,11 +10,7 @@ Ciudadela 1362 User Guide
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   internet
+   kitchen
+   laundry
+   contacts
