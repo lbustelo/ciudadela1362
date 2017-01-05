@@ -12,6 +12,8 @@ Parking
 A single parking spot for this unit is located on level ``S1`` right behind the
 elevator bay for tower 1300. The spot is labeled with number ``21094``.
 
+.. image:: images/parking_location.jpg
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
