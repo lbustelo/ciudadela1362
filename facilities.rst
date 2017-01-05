@@ -28,6 +28,8 @@ Ciudadela has a single stream recycling program. Paper, cardboard, plastic, cans
 and bottles are collected in the recycling room next to the main entrance door
 on ``Plaza`` level.
 
+.. image:: images/recycling_room.jpg
+
 Plastic Bag Free Environment
 ----------------------------
 
