@@ -13,7 +13,7 @@ The lint screen can be found inside the dryer at the bottom of the door opening.
 Just lift out, remove lint and place back into the dryer. Clean the lint screen
 after each drying cycle.
 
-TODO: Photo
+.. image:: images/lint_screen.jpg
 
 Refilling the lint catcher with water
 -------------------------------------
